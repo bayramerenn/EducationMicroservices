@@ -1,4 +1,5 @@
 Services
 	-Catalog = 5011
 	-PhotoStock = 5012
+	-Basket = 5012
 -IdentityServer = 5001
