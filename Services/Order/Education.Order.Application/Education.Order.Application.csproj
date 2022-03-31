@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+ 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Education.Order.Domain\Education.Order.Domain.csproj" />
+    <ProjectReference Include="..\Education.Order.Infrastructure\Education.Order.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
